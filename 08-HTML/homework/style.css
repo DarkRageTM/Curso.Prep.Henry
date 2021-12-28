@@ -1,0 +1,13 @@
+h1{color:black}
+img{width:400px}
+#thirdDiv{height:600px;
+            width: 500px;
+            background-color:blue;
+            padding:50px;
+            border:solid 50px red}
+#spanID{font-size:18px;
+        margin:50px;}
+body{display:flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(https://scontent.fmvd3-1.fna.fbcdn.net/v/t1.18169-9/21557882_2015936011971285_9126517490773461468_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGkqlGmlDj1_DiDTdf-YBodx2ymlOd9B1DHbKaU530HUFSCnQJFCkQSHmHkR3vxuQzcWKg7uxsGaHQ7bR4OPaK7&_nc_ohc=XTGlVOU0q-YAX__ZcVp&_nc_ht=scontent.fmvd3-1.fna&oh=00_AT-qo85KExXjzwa5rFhC1hNMnJUzCCOG7CDFYM3aOHEZ4Q&oe=61F1B4EE)}
